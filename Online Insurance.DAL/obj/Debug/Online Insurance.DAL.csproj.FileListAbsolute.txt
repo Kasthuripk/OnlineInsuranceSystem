@@ -1,0 +1,7 @@
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance.DAL\bin\Debug\Online Insurance.DAL.dll
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance.DAL\bin\Debug\Online Insurance.DAL.pdb
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance.DAL\bin\Debug\Online Insurance.Entity.dll
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance.DAL\bin\Debug\Online Insurance.Entity.pdb
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance.DAL\obj\Debug\Online Insurance.DAL.csprojResolveAssemblyReference.cache
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance.DAL\obj\Debug\Online Insurance.DAL.dll
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance.DAL\obj\Debug\Online Insurance.DAL.pdb

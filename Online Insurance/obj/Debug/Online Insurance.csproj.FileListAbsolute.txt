@@ -1,0 +1,37 @@
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\roslyn\csc.exe
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\roslyn\System.Collections.Immutable.dll
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\roslyn\vbc.exe
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\roslyn\VBCSCompiler.exe
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\roslyn\VBCSCompiler.exe.config
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\Online Insurance.dll.config
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\Online Insurance.dll
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\Online Insurance.pdb
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\Online Insurance.DAL.dll
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\Online Insurance.Entity.dll
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\System.Web.Helpers.dll
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\System.Web.Mvc.dll
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\System.Web.Razor.dll
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\System.Web.Webpages.Deployment.dll
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\System.Web.Webpages.dll
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\System.Web.Webpages.Razor.dll
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\Online Insurance.DAL.pdb
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\Online Insurance.Entity.pdb
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\System.Web.Razor.xml
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\System.Web.Webpages.xml
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\System.Web.Webpages.Deployment.xml
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\System.Web.Webpages.Razor.xml
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\System.Web.Helpers.xml
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\bin\System.Web.Mvc.xml
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\obj\Debug\Online Insurance.csprojResolveAssemblyReference.cache
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\obj\Debug\Online Insurance.dll
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance\obj\Debug\Online Insurance.pdb

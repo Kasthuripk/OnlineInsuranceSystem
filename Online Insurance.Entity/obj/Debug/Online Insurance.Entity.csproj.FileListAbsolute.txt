@@ -1,0 +1,5 @@
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance.Entity\bin\Debug\Online Insurance.Entity.dll
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance.Entity\bin\Debug\Online Insurance.Entity.pdb
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance.Entity\obj\Debug\Online Insurance.Entity.csprojResolveAssemblyReference.cache
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance.Entity\obj\Debug\Online Insurance.Entity.dll
+c:\users\hari\documents\visual studio 2015\Projects\Online Insurance\Online Insurance.Entity\obj\Debug\Online Insurance.Entity.pdb
